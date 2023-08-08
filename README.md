@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **souravkumar306281@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **https://souravtiwari306.github.io/portfolio/**
+  **https://leetcode.com/souravtiwari/**
+</h3>
 <p align="left">
 </p>
 
